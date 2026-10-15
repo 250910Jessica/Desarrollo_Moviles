@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asistencia JGL</string>
+
+    <!-- Textos de la interfaz -->
+    <string name="msg_inicialJGL">Escribe tus datos para registrarte</string>
+    <string name="hint_nombreJGL">Ingresa tu nombre</string>
+    <string name="hint_matriculaJGL">Ingresa tu matricula</string>
+    <string name="btn_registrarJGL">Registrar</string>
+    <string name="btn_registrar_otroJGL">Registrar otro</string>
+    <string name="btn_limpiarJGL">Limpiar</string>
+    <string name="btn_tema_oscuroJGL">Modo oscuro</string>
+    <string name="btn_tema_claroJGL">Modo claro</string>
+
+    <!-- Mensajes de validacion -->
+    <string name="val_nombre_vacioJGL">Escribe tu nombre</string>
+    <string name="val_nombre_cortoJGL">El nombre es demasiado corto</string>
+    <string name="val_matricula_vaciaJGL">Escribe tu matricula</string>
+    <string name="val_matricula_largoJGL">La matricula debe tener 7 digitos</string>
+</resources>

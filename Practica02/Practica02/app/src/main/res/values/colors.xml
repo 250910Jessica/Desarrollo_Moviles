@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mi paleta: D = 5 -->
+    <color name="primarioJGL">#BC94CC</color>
+    <color name="acentoJGL">	#4A235A</color>
+    <color name="fondoJGL">#F5B041</color>
+    <color name="textoJGL">	#4A235A</color>
+    <color name="textoBotonJGL">	#4A235A</color>
+</resources>
